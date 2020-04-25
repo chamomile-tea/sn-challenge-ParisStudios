@@ -44,6 +44,11 @@ body {
     padding: 0 10px;
 }
 
+.top-btn:hover {
+    border-bottom: 1px solid white;
+    padding-bottom: 2px;
+}
+
 .header {
     display: flex;
     align-items: center;
